@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Lab_1.cpp
+  ANN.cpp
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(172): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(175): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(185): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(278): warning C4244: 'initialisation' : conversion de 'int64' en 'double', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(316): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(359): warning C4244: '=' : conversion de 'int64' en 'double', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(370): warning C4244: '=' : conversion de 'int64' en 'double', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(389): warning C4244: 'initialisation' : conversion de 'int64' en 'double', perte possible de données
+d:\travaux\vision\lab3vision\lab_1\lab_1\ann.cpp(403): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Génération de code en cours...
+  Lab_1.vcxproj -> D:\Travaux\Vision\Lab3Vision\Lab_1\x64\Debug\Lab_1.exe
